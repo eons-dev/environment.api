@@ -15,6 +15,6 @@ However, you can also use it in a regular Apie call (e.g. `curl https://eons.sh/
 For example, if our `environment` is `dev` and we call `whatever`, our call will be routed to `whatever_dev`.
 
 Environments can be anything you'd like. However, we recommend:
-`dev` - for development; volatile & verbose.
-`pre` - for pre-production testing; somewhat volatile & quiet.
-` ` (i.e. nothing) - for production; stable & quiet.
+* `dev` - for development; volatile & verbose.
+* `pre` - for pre-production testing; somewhat volatile & quiet.
+* ` ` (i.e. nothing) - for production; stable & quiet.
